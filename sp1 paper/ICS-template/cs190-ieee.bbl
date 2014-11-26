@@ -1,0 +1,129 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{electronic_irri}
+\BIBentryALTinterwordspacing
+IRRI. How to manage pests and diseases. [Online]. Available:
+  \url{http://www.knowledgebank.irri.org/step-by-step-production/growth/pests-and-diseases}
+\BIBentrySTDinterwordspacing
+
+\bibitem{article_kandalkar2}
+G.~Kandalkar, A.~V. Deorankar, and P.~N. Chatur, ``Classification of
+  agricultural pests using dwt and back propagation neural networs,''
+  \emph{International Journal of Computer Science and Information
+  Technologies}, vol.~5, pp. 4034--4037, 2014.
+
+\bibitem{article_kandalkar3}
+------, ``A review of literature on application of image processing for
+  identification of agricultural pests on various crops,'' \emph{International
+  Journal of Engineering Science and Innovative Technology}, vol.~2, pp.
+  601--606, Nov. 2013.
+
+\bibitem{electronic_bugs}
+\BIBentryALTinterwordspacing
+Hemiptera: bugs, aphids and cicadas. [Online]. Available:
+  \url{http://www.ento.csiro.au/education/insects/hemiptera.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_orkin}
+\BIBentryALTinterwordspacing
+Orkin. Orkin pest library. [Online]. Available:
+  \url{http://www.orkin.com/learningcenter/pest\_library/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{article_kandalkar}
+G.~Y. Kandalkar and A.~V. Deorankar, ``Overview of image processing approach
+  for identification of agricultural pest,'' \emph{International Journal of
+  Advanced Electronics and Communication Systems}, Feb. 2014.
+
+\bibitem{article_mundada}
+R.~G. Mundada and V.~V. Gohokar, ``Detection and classification of pests in
+  greenhouse using image processing,'' \emph{IOSR Journal of Electronics and
+  Communication Engineering}, vol.~5, pp. 57--63, Mar./Oct. 2013.
+
+\bibitem{conf_zhu}
+L.~Zhu and Z.~Zhang, ``Auto-classification of insect images based on color
+  histogram and glcm,'' in \emph{Seventh International Conference on Fuzzy
+  Systems and Knowledge Discovery, 2010}.
+
+\bibitem{article_zhang}
+F.~Zhang, G.~Wang, J.~Ye, and Q.~Liu, ``An automatic identification system of
+  agricultural pests based on machine vision,'' \emph{IOSR Journal of
+  Electronics and Communication Engineering}, vol.~6, pp. 68--74, May/June
+  2013.
+
+\bibitem{article_alsaqer}
+S.~M. Al-Saqer, P.~Weckler, J.~Solie, M.~Stone, and Wayadande, ``Identification
+  of pecan weevils through image processing,'' \emph{American Journal of
+  Agricultural and Biological Sciences}, vol.~6, pp. 69--79, 2011.
+
+\bibitem{article_cho}
+J.~Cho, J.~Choi, M.~Qiao, C.~Ji, H.~Kim, K.~Uhm, and T.~Chon, ``Automatic
+  identification of whiteflies, aphids and thrips in greenhouse based on image
+  analysis,'' \emph{International Journal of Mathematics and Computers in
+  Simulation}, vol.~1, pp. 46--53, 2007.
+
+\bibitem{article_fina}
+F.~Fina, P.~Birch, R.~Young, J.~Obu, B.~Faithpraise, and C.~Chatwin,
+  ``Automatic plan pest detection and recognition using k-means clustering
+  algorithm and correspondence filters,'' \emph{International Journal of
+  Advanced Biotechnology and Research}, vol.~4, pp. 189--199, 2013.
+
+\bibitem{electronic_wp}
+\BIBentryALTinterwordspacing
+WordPress.org. Wordpress.org. [Online]. Available: \url{https://wordpress.com/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_opencv}
+\BIBentryALTinterwordspacing
+itseez. Opencv: Open source computer vision. [Online]. Available:
+  \url{http://opencv.org/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_segmentation}
+\BIBentryALTinterwordspacing
+Image segmentation. [Online]. Available:
+  \url{http://www.cs.toronto.edu/\~jepson/csc2503/segmentation.pdf}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_preprocessing}
+\BIBentryALTinterwordspacing
+U.~of~Delaware. Image preprocessing. [Online]. Available:
+  \url{http://climate.geog.udel.edu/~tracyd/geog474/geog474\_preprocessing.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_feature}
+\BIBentryALTinterwordspacing
+A.~Aichert. Feature extraction. [Online]. Available:
+  \url{http://home.in.tum.de/~aichert/featurepres.pdf}
+\BIBentrySTDinterwordspacing
+
+\bibitem{article_manaa}
+M.~E. Manaa, N.~T. Obies, and T.~A. Al-Assadi, ``Object classification using a
+  neural networks with gray-co-occurrence matrices (glcm).''
+
+\bibitem{electronic_knn}
+\BIBentryALTinterwordspacing
+S.~Thirumuruganathan. A detailed introduction to k-nearest neighbor (knn)
+  algorithm. [Online]. Available:
+  \url{http://saravananthirumuruganathan.wordpress.com/2010/05/17/a-detailed-introduction-to-k-nearest-neighbor-knn-algorithm/}
+\BIBentrySTDinterwordspacing
+
+\end{thebibliography}

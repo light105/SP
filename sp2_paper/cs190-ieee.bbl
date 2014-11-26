@@ -1,0 +1,175 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{electronic_mv}
+\BIBentryALTinterwordspacing
+R.~Cruz. Our mission and vision - agenda 4: Enhancing support systems for
+  empowerment and inspiration. [Online]. Available:
+  \url{http://uplb.edu.ph/index.php/about-uplb/our-mission-vision?showall=\&start=4}
+\BIBentrySTDinterwordspacing
+
+\bibitem{misc_t}
+O.~of~Student~Affairs, ``Number of students enrolled in university of the
+  philippines-los ban\~{n}os per region,'' July 2014.
+
+\bibitem{electronic_men}
+\BIBentryALTinterwordspacing
+Men's residence hall. University Housing Office. [Online]. Available:
+  \url{http://uho.uplb.edu.ph/index.php/component/content/article/13-students/dorms/19-mens-dorm}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_wmen}
+\BIBentryALTinterwordspacing
+Women's residence hall. University Housing Office. [Online]. Available:
+  \url{http://uho.uplb.edu.ph/index.php/component/content/article/13-students/dorms/23-womens-dorm}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_new}
+\BIBentryALTinterwordspacing
+New dormitory. University Housing Office. [Online]. Available:
+  \url{http://uho.uplb.edu.ph/index.php/component/content/article/13-students/dorms/20-new-dorm}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_vet}
+\BIBentryALTinterwordspacing
+Veterinary medicine residence hall. University Housing Office. [Online].
+  Available:
+  \url{http://uho.uplb.edu.ph/index.php/component/content/article/13-students/dorms/22-vetmed-dorm}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_nfrh}
+\BIBentryALTinterwordspacing
+New forestry residence hall. University Housing Office. [Online]. Available:
+  \url{http://uho.uplb.edu.ph/index.php/component/content/article/13-students/dorms/16-new-foreha}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_mareha}
+\BIBentryALTinterwordspacing
+Makiling residence hall. University Housing Office. [Online]. Available:
+  \url{http://uho.uplb.edu.ph/index.php/component/content/article/13-students/dorms/18-mareha}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_foreha}
+\BIBentryALTinterwordspacing
+Forestry residence hall. University Housing Office. [Online]. Available:
+  \url{http://uho.uplb.edu.ph/index.php/component/content/article/13-students/dorms/21-foreha}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_au}
+\BIBentryALTinterwordspacing
+Acci dorm-upper. University Housing Office. [Online]. Available:
+  \url{http://uho.uplb.edu.ph/index.php/component/content/article/13-students/dorms/14-acci-dorm-upper}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_al}
+\BIBentryALTinterwordspacing
+Acci dorm-lower. University Housing Office. [Online]. Available:
+  \url{http://uho.uplb.edu.ph/index.php/component/content/article/13-students/dorms/11-acci-dorm-lower}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_ati}
+\BIBentryALTinterwordspacing
+Ati-ntc residence hall. University Housing Office. [Online]. Available:
+  \url{http://uho.uplb.edu.ph/index.php/component/content/article/13-students/dorms/15-ati-ntc}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_ih}
+\BIBentryALTinterwordspacing
+International house. University Housing Office. [Online]. Available:
+  \url{http://uho.uplb.edu.ph/index.php/component/content/article/13-students/dorms/17-ih}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_se}
+\BIBentryALTinterwordspacing
+Chapter 1: How search engines operate? MOZ. [Online]. Available:
+  \url{http://moz.com/beginners-guide-to-seo/how-search-engines-operate}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_umary}
+\BIBentryALTinterwordspacing
+University of Maryland. [Online]. Available: \url{http://www.umd.och101.com/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_corn}
+\BIBentryALTinterwordspacing
+Cornell University. [Online]. Available:
+  \url{https://sf-sas-app-002.serverfarm.cornell.edu:7793/och/faces/task-flow-definition6/och\_welcome}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_umichi}
+\BIBentryALTinterwordspacing
+University of Michigan. [Online]. Available:
+  \url{https://offcampushousing.umich.edu/property/rental}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_uconn}
+\BIBentryALTinterwordspacing
+University of Connecticut. [Online]. Available:
+  \url{http://www.offcampushousing.uconn.edu/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_george}
+\BIBentryALTinterwordspacing
+Georgetown University. [Online]. Available:
+  \url{https://ochlistings.georgetown.edu/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_upenn}
+\BIBentryALTinterwordspacing
+Pennsylvania State University. [Online]. Available:
+  \url{https://ochlistings.georgetown.edu/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_admu}
+\BIBentryALTinterwordspacing
+Accredited off-campus housing facilities. Ateneo De Manila University.
+  [Online]. Available:
+  \url{http://www.admu.edu.ph/ls/quick-links-services/accredited-campus-housing-facilities}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_cs}
+\BIBentryALTinterwordspacing
+What is crowdsourcing? Daily Crowdsource. [Online]. Available:
+  \url{http://dailycrowdsource.com/training/crowdsourcing/what-is-crowdsourcing}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_cst}
+\BIBentryALTinterwordspacing
+S.~Keifer. (2010, May) Four types of crowdsourcing. [Online]. Available:
+  \url{http://outsideinmarketing.wordpress.com/2010/05/08/four-types-of-crowdsourcing/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{electronic_csw}
+\BIBentryALTinterwordspacing
+A.~Stefanakis. (2013, Jun) American idol is using crowd voting, why don't you?
+  [Online]. Available:
+  \url{http://www.crowdsourcing.org/blog/american-idol-is-using-crowd-voting-why-dont-you-/26504}
+\BIBentrySTDinterwordspacing
+
+\bibitem{book_oxford}
+\emph{Oxford English Dictionary}.\hskip 1em plus 0.5em minus 0.4em\relax Oxford
+  Univeristy Press, 2014.
+
+\bibitem{electronic_foun}
+\BIBentryALTinterwordspacing
+Zurb. Foundation. [Online]. Available: \url{https://github.com/zurb/foundation}
+\BIBentrySTDinterwordspacing
+
+\end{thebibliography}
